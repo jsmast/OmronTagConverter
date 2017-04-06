@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons/dev-32">
+        <file>dev-32.png</file>
+        <file>dev-32.ico</file>
+    </qresource>
+</RCC>
